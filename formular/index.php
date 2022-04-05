@@ -6,7 +6,7 @@
 <body>
 <h1>
 Formular
-<h1>
+</h1>
 <div>
 <form  action="form.php" method="post" enctype="multipart/form-data">
     <input type="text" placeholder=" First Name" class="textfield"name="fname"><br>
