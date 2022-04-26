@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
+<body>
 <head>
     <link rel="stylesheet" href="style.css">
 </head>
-<body>
 <h1>
 Formular
 </h1>
